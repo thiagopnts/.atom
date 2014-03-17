@@ -1,0 +1,27 @@
+{
+  "name": "release-notes",
+  "main": "./lib/release-notes",
+  "version": "0.25.0",
+  "description": "Displays the release notes of Atom in Atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atom/release-notes"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "## Release Notes package\n\nLets people know what's new in Atom (in Atom!)\n\n![Screenshot](https://f.cloud.github.com/assets/1424/1228569/cce6eb26-27a6-11e3-8675-a6905e50a9a6.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/atom/release-notes/issues"
+  },
+  "homepage": "https://github.com/atom/release-notes",
+  "_id": "release-notes@0.25.0",
+  "dist": {
+    "shasum": "b41c5ee0a68e84890ca83c72d465486ecdf32dcf"
+  },
+  "_resolved": "/var/folders/6n/ry6t43jn1f91bxxvmdntd6y80000gn/T/d-114127-67517-150jxky/package.tgz",
+  "_from": "/var/folders/6n/ry6t43jn1f91bxxvmdntd6y80000gn/T/d-114127-67517-150jxky/package.tgz"
+}

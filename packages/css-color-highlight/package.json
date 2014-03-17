@@ -1,0 +1,27 @@
+{
+  "name": "css-color-highlight",
+  "version": "0.2.1",
+  "main": "./lib/main",
+  "description": "Highlight colors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tulios/css-color-highlight"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# css-color-highlight package\n\nHighlight colors\n\n![sample](https://raw.github.com/tulios/css-color-highlight/master/sample1.png)\n\n## How to install\n\n```sh\napm install css-color-highlight\n```\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/tulios/css-color-highlight/issues"
+  },
+  "homepage": "https://github.com/tulios/css-color-highlight",
+  "_id": "css-color-highlight@0.2.1",
+  "dist": {
+    "shasum": "47a8cbba43c98aea253af6178860b20d166b2c39"
+  },
+  "_resolved": "/var/folders/6n/ry6t43jn1f91bxxvmdntd6y80000gn/T/d-114210-14134-kzc4yw/package.tgz",
+  "_from": "/var/folders/6n/ry6t43jn1f91bxxvmdntd6y80000gn/T/d-114210-14134-kzc4yw/package.tgz"
+}

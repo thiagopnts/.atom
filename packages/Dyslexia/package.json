@@ -1,0 +1,26 @@
+{
+  "name": "Dyslexia",
+  "main": "./lib/dyslexia",
+  "version": "0.0.3",
+  "description": "Shows if Atom is the current window on focus.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thiagopnts/dyslexia"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "### Dyslexia\n\nDon't you ever closed the wrong window when using multiple displays?\n\nIf so, not anymore.\n\n![dyslexia](http://i.imgur.com/ZlJ2esC.gif)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/thiagopnts/dyslexia/issues"
+  },
+  "homepage": "https://github.com/thiagopnts/dyslexia",
+  "_id": "Dyslexia@0.0.3",
+  "dist": {
+    "shasum": "b50fb2ea88cce45db9254bc6f051a82c05724808"
+  },
+  "_from": "/Users/thiago/.atom/.node-gyp/.atom/.apm/Dyslexia/0.0.3/package.tgz"
+}

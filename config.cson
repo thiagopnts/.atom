@@ -1,0 +1,40 @@
+'exception-reporting':
+  'userId': 'e00599da-14ff-5b9c-66bd-2052439781ef'
+'release-notes':
+  'viewedVersion': '0.69.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '7f4c77c52cfefd22527b542659ba835a50540c70'
+'editor':
+  'fontSize': 13
+'core':
+  'themes': [
+    'atom-dark-ui'
+    'atom-dark-syntax'
+  ]
+  'ignoredNames': [
+    '.git'
+    '.svn'
+    '.DS_Store'
+  ]
+  'disabledPackages': [
+    'autoflow'
+    'background-tips'
+    'bookmarks'
+    'exception-reporting'
+    'image-view'
+    'language-sql'
+    'link'
+    'metrics'
+    'vim-mode'
+    'unregistered'
+  ]
+'feedback':
+  'email': 'thiagopnts@gmail.com'
+'spell-check':
+  'grammars': [
+    'source.gfm'
+    'text.git-commit'
+    'text.plain'
+  ]
